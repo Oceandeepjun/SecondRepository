@@ -4,4 +4,8 @@ Reomte-bran edited.
 
 Local-bran edited.
 
+<<<<<<< HEAD
 Local-bran edit again.
+=======
+Remote-bran edited again.
+>>>>>>> repo-2nd/remote-bran
