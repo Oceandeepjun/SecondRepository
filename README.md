@@ -1,10 +1,5 @@
-# SecondRepository
-This is used to test git clone.
+# JavaDocuments
+Hello github!
+Another edited here:
+Branchescan't find the file created by master before merge!
 
-aaaaaaaaaaaaa
-
-bbbbbbbbbbbbbb
-
-ccccccccccccc
-
-dddddddddddd
